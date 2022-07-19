@@ -2,7 +2,7 @@
 <h3 align="center">Bem vindos ao meu perfil do GitHub</h3>
 
 - Atualmente trabalho como farmacêutica no Grupo RD e estou em busca de uma oportunidade de juntar os amores da minha vida, farmácia e tecnologia, em uma transição de carreira. Amo compartilhar meus conhecimentos, e fico feliz da vida quando vejo que consegui ajudar alguém!
-- 🌱 Estou aprendendo **Python**
+- 🌱 Estou aprendendo **Python**, **html**, **css** e **Postgree**
 
 - 📫 Dúvidas, pode me mandar um email: **drodriguesbarbosa@hotmail.com**
 
